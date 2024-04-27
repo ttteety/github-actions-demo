@@ -1,3 +1,4 @@
+name: Upload Artifacts
 on: [workflow_dispatch]
 jobs:
     example_job:
